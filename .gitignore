@@ -47,3 +47,7 @@ workflow-config.cmake
 .xmake
 build.xmake
 _include
+
+
+# keshuigu
+build/
